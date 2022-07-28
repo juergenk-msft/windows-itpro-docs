@@ -20,7 +20,7 @@ ms.collection: highpri
 - Windows 11
 
 
-Windows Update for Business is a free service that is available for all premium editions including Windows 10 and Windows 11 Pro, Enterprise, Pro for Workstation, and Education editions. 
+Windows Update for Business is a free service that is available for all premium editions including Windows 10 and Windows 11 Pro, Enterprise, Pro for Workstation, Education and Windows 10 LTSC editions. 
 
 > **Looking for consumer information?** See [Windows Update: FAQ](https://support.microsoft.com/help/12373/windows-update-faq) 
 
